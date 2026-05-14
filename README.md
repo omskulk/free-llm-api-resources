@@ -53,9 +53,11 @@ Models share a common quota.
 - [Hermes 3 Llama 3.1 405B](https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b:free)
 - [Llama 3.2 3B Instruct](https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free)
 - [Llama 3.3 70B Instruct](https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free)
+- [arcee-ai/trinity-large-thinking:free](https://openrouter.ai/arcee-ai/trinity-large-thinking:free)
 - [baidu/cobuddy:free](https://openrouter.ai/baidu/cobuddy:free)
 - [baidu/qianfan-ocr-fast:free](https://openrouter.ai/baidu/qianfan-ocr-fast:free)
 - [cognitivecomputations/dolphin-mistral-24b-venice-edition:free](https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free)
+- [deepseek/deepseek-v4-flash:free](https://openrouter.ai/deepseek/deepseek-v4-flash:free)
 - [google/gemma-4-26b-a4b-it:free](https://openrouter.ai/google/gemma-4-26b-a4b-it:free)
 - [google/gemma-4-31b-it:free](https://openrouter.ai/google/gemma-4-31b-it:free)
 - [inclusionai/ring-2.6-1t:free](https://openrouter.ai/inclusionai/ring-2.6-1t:free)
@@ -387,14 +389,26 @@ Extremely restrictive input/output token limits.
 **Credits:** $5 for 3 months
 
 **Models:**
+- E5-Mistral-7B-Instruct
+- Llama 3.1 8B
+- Llama 3.3 70B
 - Llama 3.3 70B
 - Llama-4-Maverick-17B-128E-Instruct
+- Qwen/Qwen3-235B
+- Qwen/Qwen3-235B-A22B-Instruct-2507
+- Qwen/Qwen3-32B
+- Whisper-Large-v3
+- deepseek-ai/DeepSeek-R1-0528
+- deepseek-ai/DeepSeek-R1-Distill-Llama-70B
+- deepseek-ai/DeepSeek-V3-0324
 - deepseek-ai/DeepSeek-V3.1
+- deepseek-ai/DeepSeek-V3.1-Terminus
 - deepseek-ai/DeepSeek-V3.2
 - google/gemma-3-12b-it
-- minimaxai/minimax-m2.5
-- minimaxai/minimax-m2.7
+- google/gemma-3-27b-it
+- llama3-8b
 - openai/gpt-oss-120b
+- tbd
 
 ### [Scaleway Generative APIs](https://console.scaleway.com/generative-api/models)
 
@@ -415,6 +429,7 @@ Extremely restrictive input/output token limits.
 - qwen3-coder-30b-a3b-instruct
 - qwen3-embedding-8b
 - qwen3.5-397b-a17b
+- qwen3.6-35b-a3b
 - voxtral-small-24b-2507
 
 
